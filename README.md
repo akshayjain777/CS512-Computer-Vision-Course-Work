@@ -1,5 +1,3 @@
-About
-
 CS 512 - COMPUTER VISION course by Professor Gady Agam.
 
 Cameras and computers are everywhere. Can we make computers see? Can we make computers respond to our behavior? Automated sensing by computers is a key element in ubiquitous computing. Similar to the importance of vision in humans, cameras are the most eminent sensors computers may have. By using cameras, computers can interact with people, inspect and monitor various processes, and identify people and behavior. Computer vision is a rapidly evolving field of study in computer science which is facilitated by recent years developments in computing hardware.
