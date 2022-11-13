@@ -6,3 +6,5 @@ Advanced computer hardware is now a standard component in off the shelf PCs, and
 
 CS512 Topics: 
 overview of computer vision and related areas, extraction of features from images, probabilistic modeling in images, camera calibration, epipolar geometry estimation, statistical estimation, model reconstruction from images, statistical filtering and tracking in video sequences, motion estimation in video sequences, optical flow, and object recognition. The course serves as a good starting point for graduate students interested in getting acquainted with the area of computer vision as well as for students interested in pursuing the area of visual computing in greater detail. The course assumes a basic knowledge of calculus and linear algebra and some programming experience. Programming assignments in the course will use the OpenCV standard to support capturing and manipulation of images and videos.
+
+For more details visit: http://www.cs.iit.edu/~agam/cs512/index.html#
